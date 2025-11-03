@@ -30,7 +30,7 @@ It supports:
 | *Frontend* | React.js (Vite), Context API, Axios, React Router |
 | *Backend* | Spring Boot, Spring Security (JWT), REST API, JPA / Hibernate |
 | *Database* | MySQL |
-| *Tools* | Postman, Maven, SSE, VS Code|
+| *Tools* | Postman, Maven, SSE, VS Code| 
 
 ---
 
